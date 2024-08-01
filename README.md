@@ -3,6 +3,8 @@
   <h3 align="center">A three-year student at University of Information Technology (UIT) </h3>
 </p>
 
+
+<br/>
 > ✍ I'm currently learning software engineering at UIT
 <br/>
 > ✍ I enjoy learning about web development
