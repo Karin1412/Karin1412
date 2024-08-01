@@ -3,7 +3,10 @@
   <h3 align="center">A three-year student at University of Information Technology (UIT) </h3>
 </p>
 
-> ✍ I'm learning about web development
+> ✍ I'm currently learning software engineering at UIT
+> ✍ I enjoy learning about web development
+> ✍ My ambition is to become a fullstack developer 
+
 
 <br />
 
