@@ -4,7 +4,9 @@
 </p>
 
 > ✍ I'm currently learning software engineering at UIT
+<br/>
 > ✍ I enjoy learning about web development
+<br/>
 > ✍ My ambition is to become a fullstack developer 
 
 
