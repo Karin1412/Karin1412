@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Nguyen Minh Tri (Karin)</h2>
 <p align="center">
-  <h3 align="center">A student at University of Information Technology (UIT) </h3>
+  <h3 align="center">A three-year student at University of Information Technology (UIT) </h3>
 </p>
 
 > ✍ I'm learning about web development
