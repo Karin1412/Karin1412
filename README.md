@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Nguyen Minh Tri (Karin)</h2>
 <p align="center">
-  <h3 align="center">A fullstack developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A student at University of Information Technology (UIT) </h3>
 </p>
 
-> ✍ I'm a software engineer student at UIT
+> ✍ I'm learning about web development
 
 <br />
 
