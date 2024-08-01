@@ -5,17 +5,15 @@
 
 
 <br/>
-> ✍ I'm currently learning software engineering at UIT
+✍ I'm currently learning software engineering at UIT
 <br/>
-> ✍ I enjoy learning about web development
+✍ I enjoy learning about web development
 <br/>
-> ✍ My ambition is to become a fullstack developer 
+✍ My ambition is to become a fullstack developer 
 
 
 <br />
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
 
 ## 📫 How to reach me:
 
